@@ -26,6 +26,7 @@ Source: [Credit Card Dataset for Clustering](https://www.kaggle.com/datasets/arj
 | Date | Commit |
 |------|--------|
 | 9 July | Initializing the Project |
+| 9 July | Made the Model, Trained It and added requirements.txt  |
 
 ## Link to other repositories i have
 - [My Student Pass/Fail ML Project](https://github.com/BadalovSanan/My-StudentPassFail-ML-Project)
