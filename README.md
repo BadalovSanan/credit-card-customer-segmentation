@@ -82,8 +82,10 @@ Source: [Credit Card Dataset for Clustering](https://www.kaggle.com/datasets/arj
 | 9 July | Initializing the Project |
 | 9 July | Made the Model, Trained It and added requirements.txt |
 | 9 July | Finalizing Project by lastly finishing README |
+| 10 July | Adding My Network Intrusion Detection with Random Forest & XGBoost |
 
 ## Link to other repositories i have
 - [My Student Pass/Fail ML Project](https://github.com/BadalovSanan/My-StudentPassFail-ML-Project)
 - [Casting Product's Deffect Detecting](https://github.com/BadalovSanan/casting-defect-logistic-regression)
-- [Concrete Strength Linear Regression](https://github.com/BadalovSanan/concrete-strength-linear-regression/blob/main/README.md)
+- [Concrete Strength Linear Regression](https://github.com/BadalovSanan/concrete-strength-linear-regression)
+- [Network Intrusion Detection with Random Forest & XGBoost](https://github.com/BadalovSanan/Network-Intrusion-Detection-with-Random-Forest-and-XGBoost)
