@@ -84,6 +84,7 @@ Source: [Credit Card Dataset for Clustering](https://www.kaggle.com/datasets/arj
 | 9 July | Finalizing Project by lastly finishing README |
 | 10 July | Adding My Network Intrusion Detection with Random Forest & XGBoost Project |
 | 12 July | Adding My Predictive Maintenance Anomaly Detection Project |
+| 17 July | Adding My Retail Recommender System Project |
 
 ## Link to other repositories i have
 - [My Student Pass/Fail ML Project](https://github.com/BadalovSanan/My-StudentPassFail-ML-Project)
@@ -91,3 +92,4 @@ Source: [Credit Card Dataset for Clustering](https://www.kaggle.com/datasets/arj
 - [Concrete Strength Linear Regression](https://github.com/BadalovSanan/concrete-strength-linear-regression)
 - [Network Intrusion Detection with Random Forest & XGBoost](https://github.com/BadalovSanan/Network-Intrusion-Detection-with-Random-Forest-and-XGBoost)
 - [Predictive Maintenance Anomaly Detection Project](https://github.com/BadalovSanan/Predictive-Maintenance-Anomaly-Detection)
+- [Retail Recommender System](https://github.com/BadalovSanan/retail-recsys)
